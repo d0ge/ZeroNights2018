@@ -1,0 +1,5 @@
+digraph structs {
+    node [shape=plaintext];
+
+   struct1 [label=<<TABLE><TR><TD><IMG SRC="/etc/favicon.png"/></TD></TR></TABLE>>];
+}
